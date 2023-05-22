@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bird
+* source:	https://sketchfab.com/3d-models/bird-f45f9c92554b48edbba48f18d8d2cf67
+* author:	autumn_payton_2029 (https://sketchfab.com/autumn_payton_2029)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bird" (https://sketchfab.com/3d-models/bird-f45f9c92554b48edbba48f18d8d2cf67) by autumn_payton_2029 (https://sketchfab.com/autumn_payton_2029) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
